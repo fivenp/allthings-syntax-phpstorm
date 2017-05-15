@@ -1,0 +1,8 @@
+{
+  "name": "allthings-syntax-phpstorm",
+  "theme": "syntax",
+  "version": "0.7.0",
+  "description": "Allthings Syntax - Based on the nexus syntax theme from eric johney but still completely different",
+  "repository": "https://github.com/fivenp/allthings-syntax",
+  "license": "MIT"
+}
